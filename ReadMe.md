@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a PHP, HTML, CSS, and MariaDB project for a community of residents. This project allows them to reserve community facilities in a specific order and with restrictions based on needs.<br>I'd like to collaborate on backend projects to develop collaboratively. As a junior developer, I'd like to learn new skills as a team and grow as a developer.<br>I'm currently learning advanced PHP and Java.
+I'm currently working on a PHP, HTML, CSS, and MariaDB project for a community of residents. This project allows them to reserve community facilities in a specific order and with restrictions based on needs.<br>I'd like to collaborate on backend projects to develop collaboratively. As a junior developer, I'd like to learn new skills as a team and grow as a developer.<br>I'm currently learning advanced PHP, Java and PYTHON.
 
 
 ## 🌐 Socials:
